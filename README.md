@@ -1,2 +1,2 @@
 # ds-blog
-blog sharing for data science bootcamp course
+Issues 에 블로그를 공유합니다. 
