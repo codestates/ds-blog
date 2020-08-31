@@ -2,11 +2,11 @@
 [Issues](https://github.com/codestates/blog-ds/issues) 에 블로그를 공유합니다. 
 
 ## 1. Blog Label 을 정합니다. 
-- tech: 가장 일반적인 기술 블로그
-- documentation: 기술 tutorial, getting started, 등 정리된 내용
-- news & info: 새로운 내용 및 소식
-- Q&A: 스스로 질문하고 답하는 형태의 아티클
-- soft skill: 하드스킬이 아닌 좀 더 소프트한 내용들
+- `tech`: 가장 일반적인 기술 블로그
+- `documentation`: 기술 tutorial, getting started, 등 정리된 내용
+- `news & info`: 새로운 내용 및 소식
+- `Q&A`: 스스로 질문하고 답하는 형태의 아티클
+- `soft skill`: 하드스킬이 아닌 좀 더 소프트한 내용들
 
 
 ## 2. Blog contents 를 올립니다. 
