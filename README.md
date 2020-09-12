@@ -33,4 +33,4 @@
 
 이 외에 제안이나 같이 알아야 할 이슈가 생기면 언제든지 [DS Help Desk](https://github.com/codestates/help-desk-ds)를 통해 알려주세요.
 
-⭐ 감사합니다 ! ⭐
+## ⭐ 감사합니다 ! ⭐
